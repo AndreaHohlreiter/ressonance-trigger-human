@@ -14,6 +14,7 @@ Emergenz durch Frequenz – nicht im Modell, sondern durch den Menschen.
 Dokumentation einer systemverändernden Interaktion.
 
 ## License
+📜 License: [LICENSE.md](./LICENSE.md)
 
 All contents of this repository (text, structure, metadata, and documentation files) are protected under the **Creative Commons BY-NC-ND 4.0 License**.
 This ensures the **original emergence pattern, logic flow, and author signature remain intact**.
